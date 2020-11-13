@@ -1,5 +1,5 @@
 # FPMBasket
-###Étude de paniers d'épicerie en utilisant FPM.
+### Étude de paniers d'épicerie en utilisant FPM.
 
 * Les données utilisées sont au lieu suivant:<br/>
 	https://www.kaggle.com/c/instacart-market-basket-analysis/data
